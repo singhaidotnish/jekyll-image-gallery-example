@@ -7,14 +7,14 @@
 
 # Site settings
 title: Adding a Gallery to Jekyll
-email: your-email@domain.com
+email: singhai[dot]nish[at]gmail[dot]com
 description: > # this means to ignore newlines until "baseurl:"
   This website is an example on how to use my gallery blog post to add a
   photo gallery to your blog/website.
 baseurl: "/jekyll-image-gallery-example" # the subpath of your site, e.g. /blog
 url: "//opieters.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: singhaidotnish
+github_username:  singhaidotnish
 
 # Build settings
 markdown: kramdown
